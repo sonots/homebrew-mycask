@@ -8,13 +8,13 @@ project.
 After you install homebrew-cask, run the following command:
 
 ```sh
-$ brew tap sonots/my-homebrew-cask
+$ brew tap sonots/mycask
 ```
 
 You can now install alternate versions of Casks.
 
 ```sh
-$ brew cask install iterm2-beta
+$ brew cask install gyazo
 ```
 
 ## License
